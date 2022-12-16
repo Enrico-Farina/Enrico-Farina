@@ -8,17 +8,20 @@ Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/
 </a> 
 <a href="https://www.linkedin.com/in/enrico-farina/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="Linkedin">
-</a> <br> 
+</a>
+<a href="mailto:enricofarina667@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="Email">
+</a> <br>
 Software Engineer with a purpose.
 
 ## &nbsp;Tech Desenvolviment
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/5069/5069411.png" width="25px"> <br>
-![C](https://img.shields.io/badge/--05122A?style=flat&logo=C)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/5069/5069411.png" width="25px"> <br>
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/5069/5069411.png" width="25px"> <br>
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/5069/5069411.png" width="25px"> <br>
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/3247/3247956.png" width="25px"> <br>
-![javaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/3247/3247956.png" width="25px"> <br>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/8968/8968523.png" width="25px"> <br>
+![C](https://img.shields.io/badge/--05122A?style=flat&logo=C)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/8968/8968523.png" width="25px"> <br>
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/8968/8968523.png" width="25px"> <br>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/8968/8968523.png" width="25px"> <br>
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/3247/3247957.png" width="25px"> <br>
+![javaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/3247/3247957.png" width="25px"> <br>
 
 <br>
 
