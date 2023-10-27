@@ -22,8 +22,10 @@ Software Engineer with a purpose.
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/8968/8968523.png" width="25px"> <br>
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/8968/8968523.png" width="25px"> <br>
 ![javaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/8968/8968523.png" width="25px"> <br>
-![Kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/3247/3247957.png" width="25px"> <br>
-![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/3247/3247957.png" width="25px"> <br>
+![Kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/8968/8968523.png" width="25px"> <br>
+![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/8968/8968523.png" width="25px"> <br>
+![React Native](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/3247/3247957.png" width="25px"> <br>
+![React Native](https://img.shields.io/badge/-Native-05122A?style=flat&logo=react)&nbsp;™ <img src="https://cdn-icons-png.flaticon.com/512/3247/3247957.png" width="25px"> <br>
 <br>
 
 
